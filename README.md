@@ -6,4 +6,4 @@ go get github.com/birdayz/keeprunning
 ```
 
 ## Usage
-keeprunning <command>
+keeprunning [command]
